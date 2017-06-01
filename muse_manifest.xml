@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496333169935">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496333270102">
   <folder name="phone">
     <folder name="css">
       <file name="kontskt.css" crc="4173931023" ref="phone>kontskt"/>
       <file name="index.css" crc="4287505886" ref="phone>index"/>
       <file name="band.css" crc="4023699457" ref="phone>band"/>
-      <file name="site.css" crc="138239589" ref="phone>site"/>
+      <file name="site.css" crc="3819221117" ref="phone>site"/>
       <file name="videos.css" crc="4157673261" ref="phone>videos"/>
     </folder>
     <file name="index.html" crc="160047222" seo="true" mt="1496333153704" redirect="true"/>
-    <file name="site.html" crc="4127128591" seo="true" mt="1496332727248" redirect="true"/>
+    <file name="site.html" crc="160039615" seo="true" mt="1496333265414" redirect="true"/>
     <file name="kontskt.html" crc="24152411" seo="true" mt="1496333108841" redirect="true"/>
     <file name="band.html" crc="343253673" seo="true" mt="1496333125435" redirect="true"/>
     <file name="videos.html" crc="4125768067" seo="true" mt="1496333135899" redirect="true"/>
