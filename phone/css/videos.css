@@ -1,7 +1,7 @@
 .version.videos /* version checker */
 {
-	color: #000000;
-	background-color: #9ACD0F;
+	color: #0000F7;
+	background-color: #D10F2D;
 }
 
 @-ms-viewport
@@ -38,12 +38,12 @@
 {
 	z-index: 1;
 	width: 332px;
-	min-height: 462.6px;
+	min-height: 462.5999999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding: 36px 15px 71.39999999999998px 33px;
+	padding: 36px 15px 71.40000000000009px 33px;
 }
 
 #pu325-4

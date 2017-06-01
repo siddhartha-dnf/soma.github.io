@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #5FB512;
+	color: #0000FF;
+	background-color: #8E25DE;
 }
 
 @-ms-viewport
@@ -49,12 +49,12 @@
 #u307-4
 {
 	z-index: 2;
-	width: 563px;
+	width: 297px;
 	min-height: 82px;
 	background-color: transparent;
-	font-size: 48px;
 	line-height: 58px;
 	color: #FFFFFF;
+	font-size: 48px;
 	font-family: Times, Times New Roman, Georgia, serif;
 	position: relative;
 	margin-right: -10000px;
