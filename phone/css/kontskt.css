@@ -1,7 +1,7 @@
 .version.kontskt /* version checker */
 {
-	color: #000007;
-	background-color: #A78081;
+	color: #00000A;
+	background-color: #0D7462;
 }
 
 @-ms-viewport
@@ -37,25 +37,19 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
-	min-height: 570px;
+	width: 275px;
+	min-height: 208px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-}
-
-#page_position_content
-{
-	padding-top: 36px;
-	padding-bottom: 326px;
-	width: 0.01px;
+	padding: 36px 70px 326px 35px;
 }
 
 #pu340-4
 {
 	width: 0.01px;
-	margin-left: 36px;
+	margin-left: 1px;
 }
 
 #u340-4
@@ -97,10 +91,9 @@
 #u316-8
 {
 	z-index: 2;
-	width: 477px;
+	width: 275px;
 	min-height: 105px;
 	background-color: transparent;
-	margin-left: 35px;
 	margin-top: 68px;
 	position: relative;
 }
