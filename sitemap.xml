@@ -17,29 +17,34 @@
     <lastmod>2017-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://soma.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://soma.com/site.html</loc>
     <lastmod>2017-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://soma.com/phone/site.html"/>
   </url>
   <url>
     <loc>http://soma.com/kontskt.html</loc>
     <lastmod>2017-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://soma.com/phone/kontskt.html"/>
   </url>
   <url>
     <loc>http://soma.com/videos.html</loc>
     <lastmod>2017-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://soma.com/phone/videos.html"/>
   </url>
   <url>
     <loc>http://soma.com/band.html</loc>
     <lastmod>2017-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://soma.com/phone/band.html"/>
   </url>
 </urlset>

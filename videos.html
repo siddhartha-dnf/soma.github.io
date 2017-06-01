@@ -3,12 +3,19 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "videos.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "videos.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/videos.html');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2015.0.0.309"/>
   <title>Videos</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://soma.com/phone/videos.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
   <link rel="stylesheet" type="text/css" href="css/videos.css?3775063797" id="pagesheet"/>

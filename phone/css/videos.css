@@ -1,0 +1,196 @@
+.version.videos /* version checker */
+{
+	color: #000000;
+	background-color: #9ACD0F;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 332px;
+	min-height: 462.6px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding: 36px 15px 71.39999999999998px 33px;
+}
+
+#pu325-4
+{
+	width: 0.01px;
+	margin-left: 3px;
+}
+
+#u325-4
+{
+	z-index: 10;
+	width: 60px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u323-4
+{
+	z-index: 2;
+	width: 55px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	left: 79px;
+}
+
+#u324-4
+{
+	z-index: 6;
+	width: 55px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 143px;
+}
+
+#pu327
+{
+	width: 0.01px;
+	margin-top: 45px;
+}
+
+#u327
+{
+	z-index: 14;
+	width: 201px;
+	min-height: 119px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 130px;
+}
+
+#u333-4
+{
+	z-index: 17;
+	width: 169px;
+	min-height: 90px;
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#pu329
+{
+	width: 0.01px;
+	margin-top: 89px;
+}
+
+#u329
+{
+	z-index: 15;
+	width: 201px;
+	min-height: 119px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 130px;
+}
+
+#u336-4
+{
+	z-index: 21;
+	width: 169px;
+	min-height: 90px;
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#pu331
+{
+	width: 0.01px;
+	margin-top: 91px;
+}
+
+#u331
+{
+	z-index: 16;
+	width: 201px;
+	min-height: 119px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 130px;
+}
+
+#u337-4
+{
+	z-index: 25;
+	width: 169px;
+	min-height: 90px;
+	background-color: transparent;
+	font-size: 12px;
+	line-height: 14px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

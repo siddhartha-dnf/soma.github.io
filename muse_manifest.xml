@@ -1,4 +1,18 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496332412928">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496332941845">
+  <folder name="phone">
+    <folder name="css">
+      <file name="kontskt.css" crc="4173931023" ref="phone>kontskt"/>
+      <file name="index.css" crc="4083135762" ref="phone>index"/>
+      <file name="band.css" crc="4023699457" ref="phone>band"/>
+      <file name="site.css" crc="138239589" ref="phone>site"/>
+      <file name="videos.css" crc="10145039" ref="phone>videos"/>
+    </folder>
+    <file name="index.html" crc="160047222" seo="true" mt="1496332626849" redirect="true"/>
+    <file name="site.html" crc="4127128591" seo="true" mt="1496332727248" redirect="true"/>
+    <file name="kontskt.html" crc="4013242093" seo="true" mt="1496332715431" redirect="true"/>
+    <file name="band.html" crc="230108099" seo="true" mt="1496332835398" redirect="true"/>
+    <file name="videos.html" crc="3910958520" seo="true" mt="1496332932528" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="206623994" ref="index"/>
@@ -11,19 +25,22 @@
     <file name="microsoft-word-dokument-(neu).pdf" crc="530573387" seo="true" mt="1478339936000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:site:kontskt:videos:band"/>
-    <file name="museutils.js" crc="183364071" ref="index:site:kontskt:videos:band"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:site:kontskt:videos:band"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:site:kontskt:videos:band:phone>index:phone>site:phone>kontskt:phone>band:phone>videos"/>
+    <file name="museutils.js" crc="183364071" ref="index:site:kontskt:videos:band:phone>index:phone>site:phone>kontskt:phone>band:phone>videos"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:site:kontskt:videos:band:phone>index:phone>site:phone>kontskt:phone>band:phone>videos"/>
+    <file name="museredirect.js" crc="40941066" ref="index:site:kontskt:videos:band"/>
   </folder>
   <folder name="images">
-    <file name="bild.jpg" crc="3815411005" ref="index"/>
+    <file name="bild.jpg" crc="3815411005" ref="index:phone>index"/>
     <file name="u78-4.png" crc="4218997264" ref="index"/>
     <file name="u85-4.png" crc="4257109340" ref="index"/>
-    <file name="concert.jpg" crc="3803630579" seo="true" ref="site"/>
+    <file name="concert.jpg" crc="3803630579" seo="true" ref="site:phone>site"/>
+    <file name="u308-4.png" crc="4218997264" ref="phone>index"/>
+    <file name="u309-4.png" crc="4257109340" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="385452321" seo="true" mt="1496328831879" redirect="true"/>
-  <file name="site.html" crc="3824128984" seo="true" mt="1496327817212" redirect="true"/>
-  <file name="kontskt.html" crc="3773402266" seo="true" mt="1496327830222" redirect="true"/>
-  <file name="videos.html" crc="3868499966" seo="true" mt="1496332400116" redirect="true"/>
-  <file name="band.html" crc="483678088" seo="true" mt="1496327838717" redirect="true"/>
+  <file name="index.html" crc="356619272" seo="true" mt="1496332551798" redirect="true"/>
+  <file name="site.html" crc="3779949771" seo="true" mt="1496332551872" redirect="true"/>
+  <file name="kontskt.html" crc="232133682" seo="true" mt="1496332551956" redirect="true"/>
+  <file name="videos.html" crc="449209112" seo="true" mt="1496332552131" redirect="true"/>
+  <file name="band.html" crc="236467588" seo="true" mt="1496332552030" redirect="true"/>
 </manifest>

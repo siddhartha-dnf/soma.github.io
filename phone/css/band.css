@@ -1,0 +1,119 @@
+.version.band /* version checker */
+{
+	color: #0000EF;
+	background-color: #D4C801;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 338px;
+	min-height: 267px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding: 36px 19px 267px 23px;
+}
+
+#pu322-4
+{
+	width: 0.01px;
+	margin-left: 13px;
+}
+
+#u322-4
+{
+	z-index: 10;
+	width: 60px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u320-4
+{
+	z-index: 2;
+	width: 55px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	left: 79px;
+}
+
+#u321-4
+{
+	z-index: 6;
+	width: 55px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 143px;
+}
+
+#u326-13
+{
+	z-index: 14;
+	width: 338px;
+	min-height: 63px;
+	background-color: transparent;
+	line-height: 24px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-style: italic;
+	margin-top: 63px;
+	position: relative;
+}
+
+#u326,#u326-3,#u326-5,#u326-7,#u326-10
+{
+	font-weight: bold;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
