@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496330384846">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496332412928">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="206623994" ref="index"/>
     <file name="band.css" crc="317658509" ref="band"/>
     <file name="site.css" crc="318567213" ref="site"/>
-    <file name="videos.css" crc="281605428" ref="videos"/>
+    <file name="videos.css" crc="3775063797" ref="videos"/>
     <file name="kontskt.css" crc="59711838" ref="kontskt"/>
   </folder>
   <folder name="assets">
@@ -24,6 +24,6 @@
   <file name="index.html" crc="385452321" seo="true" mt="1496328831879" redirect="true"/>
   <file name="site.html" crc="3824128984" seo="true" mt="1496327817212" redirect="true"/>
   <file name="kontskt.html" crc="3773402266" seo="true" mt="1496327830222" redirect="true"/>
-  <file name="videos.html" crc="104180247" seo="true" mt="1496327849220" redirect="true"/>
+  <file name="videos.html" crc="3868499966" seo="true" mt="1496332400116" redirect="true"/>
   <file name="band.html" crc="483678088" seo="true" mt="1496327838717" redirect="true"/>
 </manifest>
